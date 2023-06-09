@@ -1,3 +1,3 @@
 <h1>I learned in this lab how to use fastify and servers</h1>
 
-  ![DOG]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQab6Io-Ojknu5NRSaO7QhscT1H619NA2j7kB2EYu2tTh6_JCOIP5l0kVY8WhRy4_oinDw&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mtNnxgRNUqWuts2j9OMpVsgYihGDEJSfGQ&usqp=CAU))
+  ![DOG](![image](https://github.com/superjack11/cit281-lab3/assets/69614720/383abe68-86b1-4e7a-898e-fd34e4bf91ae))
